@@ -1,0 +1,25 @@
+Jane Doe
+San Francisco, CA | jane.doe@example.com | (555) 123-4567
+linkedin.com/in/janedoe | github.com/janedoe
+
+SUMMARY
+Robotics software engineer with 4 years of experience building perception
+and control systems for autonomous mobile robots.
+
+SKILLS
+Python, C++, ROS2, Computer Vision, PyTorch, SLAM, Linux, Git, Docker
+
+EXPERIENCE
+Senior Robotics Engineer — Evolve Robotics Lab
+Jan 2023 - Present
+Led development of a vision-based navigation stack for warehouse robots,
+improving path-planning accuracy by 30%.
+
+Robotics Engineer — Autobots Inc.
+Jun 2020 - Dec 2022
+Built sensor-fusion pipelines combining LiDAR and camera data for obstacle
+detection.
+
+EDUCATION
+M.S. in Robotics, Carnegie Mellon University, 2020
+B.Tech in Mechanical Engineering, IIT Bombay, 2018
